@@ -1,0 +1,6 @@
+{
+  "describes": "the checks `node scripts/adopt.mts --pr` generated for this repository, proved by failing without them",
+  "tests": [
+    "proof/adopt-agentic-setup.test.mjs"
+  ]
+}
