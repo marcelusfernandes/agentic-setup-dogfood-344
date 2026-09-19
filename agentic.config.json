@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "stack": "node",
+  "commands": {
+    "test": "npm test",
+    "check": null
+  },
+  "checks": [],
+  "hooks": [
+    "pre-push"
+  ],
+  "proof": {
+    "dir": "proof"
+  },
+  "labels": {
+    "source": "scripts/init.mts"
+  },
+  "generatedAt": "2026-09-19T22:04:29.717Z",
+  "generatedBy": "agentic-setup/adopt"
+}
